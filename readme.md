@@ -150,7 +150,4 @@ If you finish the main requirements, try adding:
 | Self-closing tags                                                  | ☐        |
 | Footer with copyright                                              | ☐        |
 
----
-
-Would you like me to create a **second level version** of this project (like “Portfolio v2”) with **CSS integration** after you complete this HTML-only one?
-That will take your hands-on skills to the next level.
+----
